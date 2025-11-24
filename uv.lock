@@ -595,7 +595,7 @@ sdist = { url = "https://files.pythonhosted.org/packages/14/c7/2531aca6ab7baa377
 
 [[package]]
 name = "flask-security-too"
-version = "5.7.0"
+version = "5.7.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "email-validator" },
@@ -607,9 +607,9 @@ dependencies = [
     { name = "markupsafe" },
     { name = "wtforms" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/86/9a/a1cc333f03149371fe310175d264fe7a5fab96443e4c9a18a7991c39bd0d/flask_security_too-5.7.0.tar.gz", hash = "sha256:8f1df73eb337cdf6dbc265f2b51edebc413bc7bdc809f85418f2e3800136788f", size = 717340, upload-time = "2025-11-14T01:24:01.468Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e1/68/f8a59409cbbce9b8ef1d30162d1e3f9ac16510655dde66587356369f5ea4/flask_security_too-5.7.1.tar.gz", hash = "sha256:fff0bdf5cde048b89736523dc061fabd308e074f0ece6dcca0c745555dab7b5a", size = 717869, upload-time = "2025-11-23T15:54:34.945Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/32/e0/e42f8a16464b2864aaae693164bbb73da570d85c8340c45a72586b91f190/flask_security_too-5.7.0-py3-none-any.whl", hash = "sha256:1c9ad4b2530f7d05b037f191726244363f2967fc3a4032cc16cae568797c1d70", size = 459054, upload-time = "2025-11-14T01:23:59.514Z" },
+    { url = "https://files.pythonhosted.org/packages/00/45/41a0f084a95b171d5c9e8820179e3aa1223bdc5c7c5842c2ef5c0cf467ed/flask_security_too-5.7.1-py3-none-any.whl", hash = "sha256:971772ca22a78a3f1971086fb11d6e30e0f7e7729a19f637de04b79873c28a54", size = 459110, upload-time = "2025-11-23T15:54:32.79Z" },
 ]
 
 [[package]]
