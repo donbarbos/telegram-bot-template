@@ -635,15 +635,15 @@ wheels = [
 
 [[package]]
 name = "email-validator"
-version = "2.2.0"
+version = "2.3.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "dnspython" },
     { name = "idna" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/48/ce/13508a1ec3f8bb981ae4ca79ea40384becc868bfae97fd1c942bb3a001b1/email_validator-2.2.0.tar.gz", hash = "sha256:cb690f344c617a714f22e66ae771445a1ceb46821152df8e165c5f9a364582b7", size = 48967, upload-time = "2024-06-20T11:30:30.034Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/f5/22/900cb125c76b7aaa450ce02fd727f452243f2e91a61af068b40adba60ea9/email_validator-2.3.0.tar.gz", hash = "sha256:9fc05c37f2f6cf439ff414f8fc46d917929974a82244c20eb10231ba60c54426", size = 51238, upload-time = "2025-08-26T13:09:06.831Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d7/ee/bf0adb559ad3c786f12bcbc9296b3f5675f529199bef03e2df281fa1fadb/email_validator-2.2.0-py3-none-any.whl", hash = "sha256:561977c2d73ce3611850a06fa56b414621e0c8faa9d66f2611407d87465da631", size = 33521, upload-time = "2024-06-20T11:30:28.248Z" },
+    { url = "https://files.pythonhosted.org/packages/de/15/545e2b6cf2e3be84bc1ed85613edd75b8aea69807a71c26f4ca6a9258e82/email_validator-2.3.0-py3-none-any.whl", hash = "sha256:80f13f623413e6b197ae73bb10bf4eb0908faf509ad8362c5edeb0be7fd450b4", size = 35604, upload-time = "2025-08-26T13:09:05.858Z" },
 ]
 
 [[package]]
@@ -751,7 +751,7 @@ sdist = { url = "https://files.pythonhosted.org/packages/14/c7/2531aca6ab7baa377
 
 [[package]]
 name = "flask-security-too"
-version = "5.7.1"
+version = "5.8.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "email-validator" },
@@ -763,9 +763,9 @@ dependencies = [
     { name = "markupsafe" },
     { name = "wtforms" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/e1/68/f8a59409cbbce9b8ef1d30162d1e3f9ac16510655dde66587356369f5ea4/flask_security_too-5.7.1.tar.gz", hash = "sha256:fff0bdf5cde048b89736523dc061fabd308e074f0ece6dcca0c745555dab7b5a", size = 717869, upload-time = "2025-11-23T15:54:34.945Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/f3/67/8fe3ad73fd82609975cfea2c65e5e490b19ff8349e5653d5f5db1e013581/flask_security_too-5.8.0.tar.gz", hash = "sha256:4f72e5a7e6ee5eaafc20a89f2510407eefa0614cc695ac469d19f9dbaa4b6c43", size = 750314, upload-time = "2026-04-15T01:48:55.741Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/00/45/41a0f084a95b171d5c9e8820179e3aa1223bdc5c7c5842c2ef5c0cf467ed/flask_security_too-5.7.1-py3-none-any.whl", hash = "sha256:971772ca22a78a3f1971086fb11d6e30e0f7e7729a19f637de04b79873c28a54", size = 459110, upload-time = "2025-11-23T15:54:32.79Z" },
+    { url = "https://files.pythonhosted.org/packages/ef/a9/1dffc0358f24c7952adfecfadf1c5a577449c94e24fd64d01d90647bceb2/flask_security_too-5.8.0-py3-none-any.whl", hash = "sha256:f4bc8fb4b1c8a6f33bcd72ee698c9c2db0bc9406b1a211bb6d5dd6204bad6c53", size = 491804, upload-time = "2026-04-15T01:48:53.565Z" },
 ]
 
 [[package]]
@@ -2117,7 +2117,7 @@ admin = [
     { name = "flask-admin", specifier = ">=1.6.1,<3.0.0" },
     { name = "flask-babel", specifier = ">=4.0.0,<5.0.0" },
     { name = "flask-caching", specifier = ">=2.3.0,<3.0.0" },
-    { name = "flask-security-too", specifier = ">=5.5.2,<6.0.0" },
+    { name = "flask-security-too", specifier = ">=5.8.0,<6.0.0" },
     { name = "flask-sqlalchemy", specifier = ">=3.1.1,<4.0.0" },
     { name = "gunicorn", specifier = ">=23.0.0,<26.0.0" },
     { name = "psycopg2-binary", specifier = ">=2.9.10,<3.0.0" },
