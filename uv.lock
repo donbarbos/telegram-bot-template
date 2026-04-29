@@ -684,7 +684,7 @@ wheels = [
 
 [[package]]
 name = "flask-admin"
-version = "2.0.2"
+version = "2.1.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "flask" },
@@ -694,9 +694,9 @@ dependencies = [
     { name = "werkzeug" },
     { name = "wtforms" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/cc/b7/78a1534b4fe1a40bccf79e8e274e1ace6ee1678c804e4c178b1c96e6c8d6/flask_admin-2.0.2.tar.gz", hash = "sha256:1d06aec7efee957972b43f6b08a0bd08d5f4cf9a337d4ece2f17c98abc2a214e", size = 5528977, upload-time = "2025-11-11T21:59:14.782Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/eb/0a/da941c07fd938d1d1d3026e0f01fd6b89a1ad3e69fefd45fc97a3589a8f9/flask_admin-2.1.0.tar.gz", hash = "sha256:d88c26de71f548b589dd956996844eb348212dda4e8a9b7178ae1f6fdf387459", size = 5140750, upload-time = "2026-04-28T09:02:48.709Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/2b/25/a379b8dc388630f1d173544c8b3ebbdb2ad5b60992e531b724d7f8a7ea03/flask_admin-2.0.2-py3-none-any.whl", hash = "sha256:4b3c44068de0fe4630dfcd190cc11231cbbdd7bac315c74c55d1764087b8b273", size = 6459099, upload-time = "2025-11-11T21:59:12.82Z" },
+    { url = "https://files.pythonhosted.org/packages/c9/fc/f8619b9365051e9fa0f79695e913738bae256320fc1ca18e43cd1da6d015/flask_admin-2.1.0-py3-none-any.whl", hash = "sha256:ec6197293fd4378b13b62b8439c4cd13f3f266ead27f253c76089aa71be5003d", size = 6053303, upload-time = "2026-04-28T09:02:46.226Z" },
 ]
 
 [[package]]
@@ -2115,7 +2115,7 @@ requires-dist = [
 [package.metadata.requires-dev]
 admin = [
     { name = "flask", specifier = ">=3.1.0,<4.0.0" },
-    { name = "flask-admin", specifier = ">=1.6.1,<3.0.0" },
+    { name = "flask-admin", specifier = ">=2.1.0,<3.0.0" },
     { name = "flask-babel", specifier = ">=4.0.0,<5.0.0" },
     { name = "flask-caching", specifier = ">=2.4.0,<3.0.0" },
     { name = "flask-security-too", specifier = ">=5.8.0,<6.0.0" },
