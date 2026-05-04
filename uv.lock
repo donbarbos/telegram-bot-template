@@ -2142,7 +2142,7 @@ dev = [
     { name = "mypy", specifier = ">=1.20.2,<2.0.0" },
     { name = "pre-commit", specifier = ">=4.6.0,<5.0.0" },
     { name = "ruff", specifier = ">=0.15.12,<1.0.0" },
-    { name = "types-cachetools", specifier = ">=5.5.0.20240820,<7.0.0.0" },
+    { name = "types-cachetools", specifier = ">=7.0.0.20260503,<8.0.0.0" },
 ]
 
 [[package]]
@@ -2186,11 +2186,11 @@ wheels = [
 
 [[package]]
 name = "types-cachetools"
-version = "6.2.0.20260408"
+version = "7.0.0.20260503"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/ec/61/475b0e8f4a92e5e33affcc6f4e6344c6dee540824021d22f695ea170da63/types_cachetools-6.2.0.20260408.tar.gz", hash = "sha256:0d8ae2dd5ba0b4cfe6a55c34396dd0415f1be07d0033d84781cdc4ed9c2ebc6b", size = 9854, upload-time = "2026-04-08T04:31:49.665Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ec/57/5d3b8b3e66b002911ec1274e87f904eeee1d843c8713d95476c25c29cf31/types_cachetools-7.0.0.20260503.tar.gz", hash = "sha256:dfa4dcdf453f397dfc6d69fc0a57423ac1f248393f70aa56b5d05fac2df7a96c", size = 10033, upload-time = "2026-05-03T05:19:54.128Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/bb/7d/579f50f4f004ee93c7d1baa95339591cac1fe02f4e3fb8fc0f900ee4a80f/types_cachetools-6.2.0.20260408-py3-none-any.whl", hash = "sha256:470e0b274737feae74beed3d764885bf4664002ecc393fba3778846b13ce92cb", size = 9350, upload-time = "2026-04-08T04:31:48.826Z" },
+    { url = "https://files.pythonhosted.org/packages/3d/a8/84562723d9a3572e0851d82bdea6bed5a7dc033c6bd648f492c76b8c4ac8/types_cachetools-7.0.0.20260503-py3-none-any.whl", hash = "sha256:011b4fe0e85ef05c4a2471a4fda40254a78746b501cc1727359233872bb3a4e9", size = 9493, upload-time = "2026-05-03T05:19:53.124Z" },
 ]
 
 [[package]]
