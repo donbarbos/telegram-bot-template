@@ -790,7 +790,7 @@ sdist = { url = "https://files.pythonhosted.org/packages/14/c7/2531aca6ab7baa377
 
 [[package]]
 name = "flask-security-too"
-version = "5.8.0"
+version = "5.8.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "email-validator" },
@@ -802,9 +802,9 @@ dependencies = [
     { name = "markupsafe" },
     { name = "wtforms" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/f3/67/8fe3ad73fd82609975cfea2c65e5e490b19ff8349e5653d5f5db1e013581/flask_security_too-5.8.0.tar.gz", hash = "sha256:4f72e5a7e6ee5eaafc20a89f2510407eefa0614cc695ac469d19f9dbaa4b6c43", size = 750314, upload-time = "2026-04-15T01:48:55.741Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/16/8b/9b6af966ce15689ad22e9bd51aceffca0b7ab9c47a258bbb9fe69d7bec01/flask_security_too-5.8.1.tar.gz", hash = "sha256:19450675a19055a3229b9ba5447491fa1233b41c0edf4917ea970222a15fc09e", size = 751524, upload-time = "2026-05-21T18:57:36.674Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ef/a9/1dffc0358f24c7952adfecfadf1c5a577449c94e24fd64d01d90647bceb2/flask_security_too-5.8.0-py3-none-any.whl", hash = "sha256:f4bc8fb4b1c8a6f33bcd72ee698c9c2db0bc9406b1a211bb6d5dd6204bad6c53", size = 491804, upload-time = "2026-04-15T01:48:53.565Z" },
+    { url = "https://files.pythonhosted.org/packages/e1/43/f22861119fd3456f0ba7c31b297ba666beee7b61c73f56d7e2923c853fe5/flask_security_too-5.8.1-py3-none-any.whl", hash = "sha256:49ffd574f2e37aa93e5b98c81de41d2d6fed59a273d6657c9e1aff6abd71d4f8", size = 492126, upload-time = "2026-05-21T18:57:34.624Z" },
 ]
 
 [[package]]
@@ -2155,7 +2155,7 @@ admin = [
     { name = "flask-admin", specifier = ">=2.2.0,<3.0.0" },
     { name = "flask-babel", specifier = ">=4.0.0,<5.0.0" },
     { name = "flask-caching", specifier = ">=2.4.0,<3.0.0" },
-    { name = "flask-security-too", specifier = ">=5.8.0,<6.0.0" },
+    { name = "flask-security-too", specifier = ">=5.8.1,<6.0.0" },
     { name = "flask-sqlalchemy", specifier = ">=3.1.1,<4.0.0" },
     { name = "gunicorn", specifier = ">=26.0.0,<27.0.0" },
     { name = "psycopg2-binary", specifier = ">=2.9.12,<3.0.0" },
