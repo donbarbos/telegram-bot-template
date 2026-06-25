@@ -15,7 +15,7 @@ DEFAULT_LOCALE = "en"
 
 
 class EnvBaseSettings(BaseSettings):
-    model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
+    model_config = SettingsConfigDict(env_file=f"{DIR}/.env", env_file_encoding="utf-8", extra="ignore")
 
 
 class WebhookSettings(EnvBaseSettings):
