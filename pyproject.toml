@@ -5,7 +5,7 @@ description = "Best way to create a scalable telegram bot with analytics"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "donBarbos", email = "donbarbos@proton.me"},
+    {name = "donbarbos", email = "donbarbos@proton.me"},
 ]
 package-mode = false
 requires-python = "<4.0,>=3.10"
@@ -16,8 +16,8 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/donBarbos/telegram-bot-template"
-repository = "https://github.com/donBarbos/telegram-bot-template"
+homepage = "https://github.com/donbarbos/telegram-bot-template"
+repository = "https://github.com/donbarbos/telegram-bot-template"
 
 [dependency-groups]
 bot = [

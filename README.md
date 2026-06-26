@@ -5,11 +5,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/donBarbos/telegram-bot-template/tags"><img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/donBarbos/telegram-bot-template"></a>
-  <a href="https://github.com/donBarbos/telegram-bot-template/actions/workflows/linters.yml"><img src="https://img.shields.io/github/actions/workflow/status/donBarbos/telegram-bot-template/linters.yml?label=linters" alt="Linters Status"></a>
-  <a href="https://github.com/donBarbos/telegram-bot-template/actions/workflows/docker-image.yml"><img src="https://img.shields.io/github/actions/workflow/status/donBarbos/telegram-bot-template/docker-image.yml?label=docker%20image" alt="Docker Build Status"></a>
+  <a href="https://github.com/donbarbos/telegram-bot-template/tags"><img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/donbarbos/telegram-bot-template"></a>
+  <a href="https://github.com/donbarbos/telegram-bot-template/actions/workflows/linters.yml"><img src="https://img.shields.io/github/actions/workflow/status/donbarbos/telegram-bot-template/linters.yml?label=linters" alt="Linters Status"></a>
+  <a href="https://github.com/donbarbos/telegram-bot-template/actions/workflows/docker-image.yml"><img src="https://img.shields.io/github/actions/workflow/status/donbarbos/telegram-bot-template/docker-image.yml?label=docker%20image" alt="Docker Build Status"></a>
   <a href="https://www.python.org/downloads"><img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python"></a>
-  <a href="https://github.com/donBarbos/telegram-bot-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/donbarbos/telegram-bot-template?color=blue" alt="License"></a>
+  <a href="https://github.com/donbarbos/telegram-bot-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/donbarbos/telegram-bot-template?color=blue" alt="License"></a>
   <a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" alt="Code style"></a>
   <a href="https://github.com/astral-sh/uv"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json" alt="Package manager"></a>
 <p>
@@ -43,7 +43,7 @@
 
 ### 💻 Running on Local Machine
 
--   set environment and install dependencies using [uv](https://docs.astral.sh/uv/ "python package manager") (you can find branch with Poetry [here](https://github.com/donBarbos/telegram-bot-template/tree/poetry-archive))
+-   set environment and install dependencies using [uv](https://docs.astral.sh/uv/ "python package manager") (you can find branch with Poetry [here](https://github.com/donbarbos/telegram-bot-template/tree/poetry-archive))
 
     ```bash
     uv sync --frozen --all-groups
@@ -193,7 +193,7 @@ to launch the bot you only need a token bot, database and redis settings, everyt
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=donBarbos/telegram-bot-template&type=Date)](https://star-history.com/#donBarbos/telegram-bot-template&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=donbarbos/telegram-bot-template&type=Date)](https://star-history.com/#donbarbos/telegram-bot-template&Date)
 
 ## 👷 Contributing
 
@@ -213,4 +213,4 @@ Distributed under the MIT license. See [`LICENSE`](./LICENSE.md) for more inform
 
 ## 📢 Contact
 
-[donbarbos](https://github.com/donBarbos): donbarbos@proton.me
+[donbarbos](https://github.com/donbarbos): donbarbos@proton.me
