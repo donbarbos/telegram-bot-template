@@ -2026,15 +2026,15 @@ wheels = [
 
 [[package]]
 name = "sentry-sdk"
-version = "2.63.0"
+version = "2.65.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "certifi" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ba/c8/b3c970a5b186722d276cd40a05b3254e03bccc0208560aff20f612e018e8/sentry_sdk-2.63.0.tar.gz", hash = "sha256:2a1502bf864769275dbc8c2c9fc7a0f7f5e18358180b615d262d13a31ffba216", size = 912449, upload-time = "2026-06-16T12:45:57.553Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/f1/1f/ed17a390348156ca99fe622b97cd7d2f1969b5f49df89084b0f28e7953e9/sentry_sdk-2.65.0.tar.gz", hash = "sha256:c94dc945d54bad49d4f20448b1e6b217ca2f92f46d05c3e83d41764af685c3d1", size = 932133, upload-time = "2026-07-13T11:33:19.92Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7b/57/cb205f7d93373120f666b9c5736dc0815524d96a9b278e7a728f018dc22a/sentry_sdk-2.63.0-py3-none-any.whl", hash = "sha256:3a9b5ddd403f79eb73bd670f75f04485819db53d28f76ced7bc09041cb0dfd6a", size = 495950, upload-time = "2026-06-16T12:45:55.819Z" },
+    { url = "https://files.pythonhosted.org/packages/21/3b/326ad4c03b5da89b5124c8890af66e8119c4d2e10abc0619e0d67d9f7c7f/sentry_sdk-2.65.0-py3-none-any.whl", hash = "sha256:3595169677a808e4d0e1ea6ffb89443459549c7a98392ed71c77c847182ab6bf", size = 503869, upload-time = "2026-07-13T11:33:17.71Z" },
 ]
 
 [package.optional-dependencies]
@@ -2184,7 +2184,7 @@ bot = [
     { name = "orjson", specifier = ">=3.11.9,<4.0.0" },
     { name = "prometheus-client", specifier = ">=0.21.1,<1.0.0" },
     { name = "redis", specifier = ">=8.0.1,<9.0.0" },
-    { name = "sentry-sdk", extras = ["loguru"], specifier = ">=2.63.0,<3.0.0" },
+    { name = "sentry-sdk", extras = ["loguru"], specifier = ">=2.65.0,<3.0.0" },
     { name = "uvloop", specifier = ">=0.21.0,<1.0.0" },
 ]
 dev = [
