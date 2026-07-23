@@ -568,11 +568,11 @@ wheels = [
 
 [[package]]
 name = "cachetools"
-version = "7.1.4"
+version = "7.1.5"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/f4/8b/0d3945a13955303b81272f759a0331e54c5c793da455e6f5706b89d2639c/cachetools-7.1.4.tar.gz", hash = "sha256:437f55a4e0c1b01a4f3077cc470e6991d47430970e36fbcb77e2be0df4fc1cd6", size = 40085, upload-time = "2026-05-21T22:40:43.376Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/87/23/635f22bbd6478b02672432656a5f46775768e24b2715c2e8658b3d210602/cachetools-7.1.5.tar.gz", hash = "sha256:0def7134eba79e59448edaf5d2e3cc8e49978ab2fd56189c1efd19856b134ab5", size = 40500, upload-time = "2026-07-22T23:51:31.846Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/8c/7b/1fc1c09cc0756cf25861a3be10565915953876da48bb228fb9a672b20a42/cachetools-7.1.4-py3-none-any.whl", hash = "sha256:323dc4127934744db5b54eb4924482d7edafbf9554e820d1531c2e08c0e4ef54", size = 16761, upload-time = "2026-05-21T22:40:41.845Z" },
+    { url = "https://files.pythonhosted.org/packages/6c/9b/8bd3cf22c5559a39e905b4884f773768f849091d91e374212d5a9ab66cd7/cachetools-7.1.5-py3-none-any.whl", hash = "sha256:900cda61ff34fafca2b7f78cfd2a91e2d4f9655c19309ef542ce0a04f91e6cd9", size = 16963, upload-time = "2026-07-22T23:51:30.279Z" },
 ]
 
 [[package]]
@@ -2179,7 +2179,7 @@ bot = [
     { name = "alembic", specifier = ">=1.18.5,<2.0.0" },
     { name = "asyncpg", specifier = ">=0.30.0,<1.0.0" },
     { name = "babel", specifier = ">=2.17.0,<3.0.0" },
-    { name = "cachetools", specifier = ">=7.1.4,<8.0.0" },
+    { name = "cachetools", specifier = ">=7.1.5,<8.0.0" },
     { name = "loguru", specifier = ">=0.7.3,<1.0.0" },
     { name = "orjson", specifier = ">=3.11.9,<4.0.0" },
     { name = "prometheus-client", specifier = ">=0.21.1,<1.0.0" },
