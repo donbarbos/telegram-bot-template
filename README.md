@@ -193,7 +193,7 @@ to launch the bot you only need a token bot, database and redis settings, everyt
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=donbarbos/telegram-bot-template&type=Date)](https://star-history.com/#donbarbos/telegram-bot-template&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=donbarbos/telegram-bot-template&type=Date)](https://star-history.dera.page/#donbarbos/telegram-bot-template&Date)
 
 ## 👷 Contributing
 
